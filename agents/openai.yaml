@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ivorywhite Ad Creative"
+  short_description: "产品图生成A/B广告方案，支持多轮创意、30秒短片与长片扩展"
+  default_prompt: "使用 $ivorywhite-ad-creative，首轮提出三个创意并展开推荐方案A/B版；默认30秒内、至少16镜可增加，用户要求时扩展已选创意为长片并分段制作；不喜欢时继续只出新创意，选定后再展开。"
